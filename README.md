@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Mihika Singh Thakur! 👋
 
-<!--
-**mihikasinghthakur-boop/mihikasinghthakur-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science and Business Systems Undergraduate | Backend & AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+I am a B.Tech engineering student at Madhav Institute of Technology & Science (MITS), Gwalior, with a strong foundation in Data Structures and Algorithms. I am passionate about building robust backend systems, exploring artificial intelligence for sustainable solutions, and continuously challenging myself through hackathons and competitive problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 I’m currently focusing on **Programming** and **Machine Learning**.
+- 💡 Actively participating in national-level hackathons and building real-world projects.
+- 🎯 My current goal is to master scalable system design and prepare for software engineering roles.
+- ⚡ Fun fact: I love road trips and celebrating project milestones with a good lava cake!
+
+---
+
+### 💻 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, Python, JavaScript, HTML, CSS, SQL |
+| **Frameworks & Libraries** | React, FastAPI, Flask, TensorFlow, Crow |
+| **Tools & Cloud** | GitHub Codespaces, Netlify, Render, Figma, Postman |
+
+---
+
+### 🛠️ Featured Projects
+
+*   🌍 **[WasteWise](https://github.com/mihikasinghthakur-boop/WasteWise)**: An AI-powered waste management system built for hackathons, utilizing React for the frontend, FastAPI for backend routing, and TensorFlow for image classification and waste sorting.
+*   🏢 **[Smart Hostel Management System](https://github.com/mihikasinghthakur-boop/Smart-Hostel-Management-System)**: A comprehensive administrative application handling student registration and room allocation logic, implemented using C++ (Crow framework) and Python (Flask).
+*   🤖 **[Funnybot](https://github.com/mihikasinghthakur-boop/Funnybot)**: An intelligent, conversational AI chatbot powered by the Gemini API and seamlessly deployed on Render.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihikasinghthakur-boop&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihikasinghthakur-boop&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihikasinghthakur-boop&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:mihikasinghthakur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mihika-singh-thakur-bba602381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
