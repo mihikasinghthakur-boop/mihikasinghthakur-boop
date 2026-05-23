@@ -1,4 +1,4 @@
-# Hi there, I'm Mihika Singh Thakur! 👋
+# Hi there, I'm Mihika Singh Thakur! 
 
 **Computer Science and Business Systems Undergraduate | Backend & AI/ML Enthusiast**
 
@@ -6,29 +6,29 @@ I am a B.Tech engineering student at Madhav Institute of Technology & Science (M
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently focusing on **Programming** and **Machine Learning**.
-- 💡 Actively participating in national-level hackathons and building real-world projects.
-- 🎯 My current goal is to master scalable system design and prepare for software engineering roles.
-- ⚡ Fun fact: I love road trips and celebrating project milestones with a good lava cake!
+###  About Me
+- I’m currently focusing on **Programming** and **Machine Learning**.
+- Actively participating in national-level hackathons and building real-world projects.
+- My current goal is to master scalable system design and prepare for software engineering roles.
+
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C++, Python, JavaScript, HTML, CSS, SQL |
-| **Frameworks & Libraries** | React, FastAPI, Flask, TensorFlow, Crow |
+| **Frameworks & Libraries** | React, FastAPI, Flask, TensorFlow, Crow, NumPy, Pandas, Matplotlib|
 | **Tools & Cloud** | GitHub Codespaces, Netlify, Render, Figma, Postman |
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 *   🌍 **[WasteWise](https://github.com/mihikasinghthakur-boop/WasteWise)**: An AI-powered waste management system built for hackathons, utilizing React for the frontend, FastAPI for backend routing, and TensorFlow for image classification and waste sorting.
 *   🏢 **[Smart Hostel Management System](https://github.com/mihikasinghthakur-boop/Smart-Hostel-Management-System)**: A comprehensive administrative application handling student registration and room allocation logic, implemented using C++ (Crow framework) and Python (Flask).
-*   🤖 **[Funnybot](https://github.com/mihikasinghthakur-boop/Funnybot)**: An intelligent, conversational AI chatbot powered by the Gemini API and seamlessly deployed on Render.
+*   🤖 **[pdf-bot](https://github.com/mihikasinghthakur-boop/pdf-bot)**: An intelligent, conversational AI chatbot.
 
 ---
 
